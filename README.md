@@ -1,6 +1,6 @@
 # C++ object-oriented programming study
 
-This are some studies that I've done for my OOP class at college. 
+This are some studies that I've done for my OOP classes at college. 
 The files approach some import concepts in OOP made in C++.
 
 # Study topics
